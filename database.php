@@ -41,7 +41,7 @@ function register()
       //   echo "table no ceated";
       // }
 
-     echo "<script>window.open('login.php', '_self')</script>";
+     echo "<script>window.open('index.php', '_self')</script>";
     }
   }
 }
@@ -131,7 +131,7 @@ function logout() {
   if(isset($_POST['logout']))
   {
     session_destroy();
-    echo "<script>window.open('login.php', '_self')</script>";
+    echo "<script>window.open('index.php', '_self')</script>";
   }
 }
 ?>
