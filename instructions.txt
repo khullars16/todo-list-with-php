@@ -1,0 +1,8 @@
+save the todo=list-with-php folder to htdocs.
+run the xampp control panel to run the php files.
+now start apache server and mysql server in xampp control panel.
+to create a database for this application go to browser and head towards the url - localhost/phpmyadmin.
+now there you need to create a database with the name - "todo".
+in the "todo" database create a table with name- "user".
+
+Now Your application in good to run. Enjoy your day.
