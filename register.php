@@ -42,7 +42,7 @@ register();
                         <input type="submit" name="enter" class="form-control">
                     </div>
                     </form>
-                    <p class="text-center">already a member... <a href="login.php" class="text-dark"><b> Login Here</b></a> </p>
+                    <p class="text-center">already a member... <a href="index.php" class="text-dark"><b> Login Here</b></a> </p>
             </div>
         </div>
     </div>
